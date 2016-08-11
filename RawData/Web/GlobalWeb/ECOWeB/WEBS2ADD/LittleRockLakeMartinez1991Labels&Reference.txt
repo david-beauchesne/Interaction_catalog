@@ -1,0 +1,211 @@
+APPENDIX Taxa in the Little Rock Lake food web
+ID #'s:        TAXONOMIC GROUP
+ID #    Taxon
+1,3,5,7:       YOUNG OF YEAR FISHES
+1       Yellow perch (Perca flavescens)
+3       Largemouth bass (Micropterus salmoides)
+5       Rock bass (Ambloplites rupestris),
+7       Black crappie (Pomoxis nigromaculatus)
+11      Fish eggs
+2,4,6,8:       ADULT FISHES
+2       Yellow perch (Perca flavescens)
+4       Largemouth bass (Micropterus salmoides)
+6       Rock bass (Ambloplites rupestris)
+8       Black crappie (Pomoxis nigromaculatus)
+9,10:   MINNOWS
+9       Mudminnow (Umbra)
+10      Shiner (Notemigonus crysoleucus)
+12-16:  PELAGIC COPEPODS
+12      Diaptomus minutus
+13      Diaptomus *bithomasi
+14      Mesocyclops edax
+15      Tropocyclops prasinus
+16      Epischura lacustris
+17-24:  PELAGIC CLADOCERA
+17      Bosmina longirostris
+18      Eubosmina
+19      Daphnia galeata mendotae
+20      Daphnia parvula
+21      Diaphanosoma birgei
+22      Holopedium gibberum
+23      Leptodora kindtii
+24      Polyphemus pediculus
+25-38:  PELAGIC ROTIFERS
+25      Conochilus unicornis
+26      Conochiloides
+27      Kellicottia longispina
+28      Kellicottia bostoniensis
+29      Keratella cochlearis
+30      Keratella taurocephala
+31      Keratella crassa
+32      Keratella hiemalis
+33      Polyarthra remata
+34      Polyarthra vulgaris
+35      Trichocerca cylindrica
+36      Asplanchna
+37      Gastropus
+38      Synchaeta
+39-41:  JUVENILE PELAGIC ZOOPLANKTON
+39      Nauplii
+40      Calanoid *copepodids
+41      Cyclopoid *copepodids
+42-53:         BENTHIC CLADOCERA
+42      Alona affinis
+43      Alona quadrangularis
+44      Alona rustica
+45      Alona intermedia
+46      Alonella excisa
+47      Disparalona acutirostris
+48      Chydorus sp1
+49      Chydorus sp2
+50      Acantholeberis curvirostris
+51      Ophryoxus gracilis
+52      Scapholeberis kingi
+53      Sida crystallina
+54-59:         BENTHIC COPEPODS
+54      Macrocyclops albidus
+55      Eucyclops serrulatus
+56      Acanthocyclops
+57      Microcyclops rubellus
+58      Harpacticoid copepods
+59      Harpacticoid copepodids
+60      HEMIPTERA             Gerris
+61,76:         COLEOPTERA
+61      Hydroporus
+76      Gyrinus
+62-63:         EPHEMEROPTERA
+62      Leptophlebia
+63      Caenis
+64-70:         TRICHOPTERA
+64      Oecetis
+65      Mystacides
+66      Limnephilus
+67      Agrypnia
+68      Banksiola
+69      Molanna
+70      Polycentropus
+71-74:         ODONATA
+71      Anisoptera epitheca
+72      Libellula
+73      Sympetrum
+74      Enallagma
+75      NEUROPTERA            Climacia
+77      HEMIPTERA             Veliidae
+78      HEMIPTERA             Notonectids
+79      MAGALOPTERA           Sialis
+80      LEPIDOPTERA Pyralidae eoparagyractis
+81-111:        DIPTERA
+81      Bezzia
+82      Sphaeromais
+83      Chaoborus *albatus
+84      Chaoborus *punctipennis
+85      Ablabesmyia
+86      Clinotanypus
+87      *Djalmabatista
+88      Guttipelopia
+89      Larsia
+90      Macropelopis
+91      Procladius
+92      Chaetocladius
+93      Corynoneura
+94      Cricotopus
+95      Nanocladius
+96      Micropsectra
+97      Paratanytarsus
+98      Tanytarsus
+99      Chironomus
+100     Cladopelma
+101     Cryptochironomus
+102     Endochironomus
+103     Glyptotendipes
+104     Microtendipes
+105     Parachironomus
+106     Paratendipes
+107     Polypedilum
+108     Pseudochironomus
+109     Stenochironomus
+110     Stictochironomus
+111     Xenochironomus
+112-114:  MOLLUSCA
+112     Bivalvia
+113     Campeloma decisum
+114     Sphaeriidae
+115     ANNELIDA              Oligochaete
+116     ANNELIDA              Hirudinea
+117     TURBELLARIA           Tricladida
+118     AMPHIPODA  Crangonyx gracilis
+119-121:  PORIFERA
+119     Spongilla lacustris
+120     Ephydatia muelleri
+121     Corvomyenia everetti
+122     ARTHROPODA            Hydracarina
+123-147:  FILAMENTOUS  ALGAE
+123     Bambusina
+124     Batrachospermum
+125     Binuclearia
+126     Bulbochaete
+127     Desmidium
+128     Geminella
+129     *Greonbladia
+130     Hapalosiphon
+131     Hyalotheca
+132     Lyngbya
+133     Microchaete
+134     Microcoleus
+135     Mougeotia
+136     Oedogonium
+137     Oscillatoria
+138     Phormidium
+139     Plectonema
+140     Radiofilum
+141     Rhizoclonium
+142     Schizothrix
+143     Scytonema
+144     Sphaerozosma
+145     Spirogyra
+146     Tribonema
+147     Zygnema
+148-156:  CYANOBACTERIA
+148     Chroococcus
+149     Gloeothece
+150     Merismopedia
+151     Aphanocapsa
+152     Gomphosphaeria
+153     Coelosphaerium
+154     Rhabdoderma
+155     Aphanothece
+156     Anabaena
+157-171:  GREEN ALGAE
+157     Arthrodesmus
+158     Cosmarium
+159     Crucigenia
+160     Euastrum
+161     O”cystis
+162     Pediastrum
+163     Quadrigula
+164     Schroederia
+165     Spondylosium
+166     Staurastrum
+167     Tetra‰dron
+168     Ankistrodesmus
+169     Xanthidium
+170     Elaktothrix
+171     Scenedesmus
+172-173:  EUGLENOPHYTA
+172     Phacus
+173     Trachelomonas
+174-175:  CRYPTOPHYTA
+174     Chroomonas
+175     Cryptomonas
+176-181:  CHRYSOPHYCEAE
+176     Asterionella
+177     Dinobryon
+178     Mallomonas
+179     Synedra
+180     Synura
+181     Tabellaria
+182     FINE ORGANIC MATTER
+
+The web of Little Rock Lake has been described in:
+
+Martinez, N. D.  1991  Artifacts or attributes?  Effects of resolution on the Little Rock Lake food web.  Ecological Monographs 61:367-392.
